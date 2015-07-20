@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5758E9A7-2E32-47CB-8630-BB924562CA99</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JBAlertView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D11BE358CD5820479E120923128E674BB33143FA</key>
+		<string>https://github.com/jaybinhe/JBAlertView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JBAlertView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D11BE358CD5820479E120923128E674BB33143FA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jaybinhe/JBAlertView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D11BE358CD5820479E120923128E674BB33143FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D11BE358CD5820479E120923128E674BB33143FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JBAlertView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
